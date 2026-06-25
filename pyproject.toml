@@ -3,11 +3,13 @@ name = "norming"
 version = "0.1.0"
 description = "A succint podcast about norms. One episode per month, 10 minutes per episode. No more, no less."
 authors = ["Michael McAndrew"]
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.9"
 python-frontmatter = "^1.0.0"
 Jinja2 = "^3.1.2"
+PyYAML = ">=6.0.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

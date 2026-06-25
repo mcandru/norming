@@ -26,6 +26,21 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:category text="Technology"/>
       <item>
+      <title>Email</title>
+      <link>https://normi.ng/email</link>
+      <description>Email was built to send messages, and not in a particularly sophisticated way, but it quietly became a very important piece of Internet infrastructure. It’s the lowest-common-denominator of online communication, but it’s also even more significantly the defacto standard for digital identity on the web. So how did a system designed to simply deliver messages evolve into the Internet’s universal form of digital verification?
+</description>
+      <content:encoded>Email was built to send messages, and not in a particularly sophisticated way, but it quietly became a very important piece of Internet infrastructure. It’s the lowest-common-denominator of online communication, but it’s also even more significantly the defacto standard for digital identity on the web. So how did a system designed to simply deliver messages evolve into the Internet’s universal form of digital verification?
+</content:encoded>
+      <enclosure url="https://anchor.fm/s/fd43fd48/podcast/play/121940895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2Fd536e66e-17ba-7c5f-fba7-c77aee174003.mp3" length="5484751" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://normi.ng/email</guid>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 GMT</pubDate>
+      <itunes:image href="https://normi.ng/img/coverart.jpg"/>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:summary>Email was built to send messages, and not in a particularly sophisticated way, but it quietly became a very important piece of Internet infrastructure. It’s the lowest-common-denominator of online communication, but it’s also even more significantly the defacto standard for digital identity on the web. So how did a system designed to simply deliver messages evolve into the Internet’s universal form of digital verification?
+</itunes:summary>
+    </item>
+    <item>
       <title>The QWERTY Keyboard</title>
       <link>https://normi.ng/qwerty</link>
       <description>When I was younger, my Grandmother asked me to teach her to use a computer. We sat down in front of it, and before I even had a chance to press the power button, she asked “Why are the letters on the keyboard laid out in such a weird way”. The keyboard that we use to interact with them is called QWERTY.
