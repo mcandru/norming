@@ -9,3 +9,9 @@ description: >
 ---
 
 Email was built to send messages, and not in a particularly sophisticated way, but it quietly became a very important piece of Internet infrastructure. It’s the lowest-common-denominator of online communication, but it’s also even more significantly the defacto standard for digital identity on the web. So how did a system designed to simply deliver messages evolve into the Internet’s universal form of digital verification?
+
+<ul class="references">
+  <li><code>[1] <a href="https://nissenbaum.tech.cornell.edu/papers/Inventingtheinternet.pdf">Inventing the Internet</a></code></li>
+  <li><code>[2] <a href="https://time.com/43263/gmail-10th-anniversary/">How Gmail Happened</a></code></li>
+  <li><code>[2] <a href="https://www.newyorker.com/tech/annals-of-technology/was-e-mail-a-mistake">Was Email a Mistake?</a></code></li>
+</ul>
