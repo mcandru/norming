@@ -3,12 +3,12 @@ title: Film Frame Rates
 date: 2022-12-11
 audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94179668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Fe53c70a3-d09f-07ac-bf32-18ca663d368e.mp3
 duration: 00:10:00
-spotify: https://open.spotify.com/embed/episode/4WYKqJh7GgoI9Cb4hts1CP?utm_source=generator&theme=0
+spotify: https://open.spotify.com/embed/episode/2YSMCooVSGR1p28miqdq8L?utm_source=generator&theme=0&si=2582fff79ea140e4
 description: >
   In December 2009, the first Avatar film was released in cinemas.
   The film pushed the boundaries of what was possible in cinema at the time,
   and made the film industry consider strongly the use of 3D. Twelve years later,
-  James Cameron is back at it again, this time experimenting with high frame rates. 
+  James Cameron is back at it again, this time experimenting with high frame rates.
 ---
 
 In December 2009, the first Avatar film was released in cinemas. The film pushed the boundaries of what was possible in cinema at the time, and made the film industry consider strongly the use of 3D. Twelve years later, James Cameron is back at it again, this time experimenting with high frame rates.

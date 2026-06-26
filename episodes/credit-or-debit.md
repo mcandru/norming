@@ -3,7 +3,7 @@ title: Credit or Debit?
 date: 2023-01-15
 audio_file: https://anchor.fm/s/fd43fd48/podcast/play/94179722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Faad420b5-4a38-39b2-5517-2c1e6db6fcd2.mp3
 duration: 00:10:00
-spotify: https://open.spotify.com/embed/episode/7F5QKRTmk5oU9RUZiez3XJ?utm_source=generator&theme=0
+spotify: https://open.spotify.com/embed/episode/3hYAirrK1h3vNbzgBtP1W9?utm_source=generator&theme=0&si=218fad1492bf41e6
 description: >
   Recently while visiting the United States I noticed that nearly every time I used my debit card to make a
   payment I was asked if I would like to pay with "credit or debit". Curiosity took the better of me and I
